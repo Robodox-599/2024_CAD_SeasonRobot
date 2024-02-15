@@ -18,3 +18,4 @@ release/**
 
 # ignores solidworks scrap
 ~$*
+*.step
